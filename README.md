@@ -1,12 +1,17 @@
 <div align="center">
-  <a href="https://github.com/OfficialMarinho/Links-uteis/blob/master/LINKS.md">
-    <img alt="Logo do projeto" src="https://raw.githubusercontent.com/OfficialMarinho/Links-uteis/master/logo.png">
+  <a href="https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md">
+    <img alt="Project banner" src="./banner.png">
   </a>
 </div>
-<p align="center">Apunhado de links úteis para o desenvolvimento de projetos de programação e design</p>
+<p align="center">A curated list of awesome project development links</p>
 
-[<p align="center">Acessar links úteis »</p>](https://github.com/OfficialMarinho/Links-uteis/blob/master/LINKS.md)
-[<p align="center">Guia para contribuir »</p>](https://github.com/OfficialMarinho/Links-uteis/blob/master/CONTRIBUTING.md)
+<div align="center">
 
-# Licença
-Este repositório está sob a licença do MIT. Para mais informações, [clique aqui](https://github.com/OfficialMarinho/Links-uteis/blob/master/LICENSE).
+[Start browse »](https://github.com/gdcmarinho/awesome-project/blob/master/LINKS.md)
+
+[Contribution guideline »](https://github.com/gdcmarinho/awesome-project/blob/master/CONTRIBUTING.md)
+
+</div>
+
+# License
+This repository is under the MIT license. For more informations, [click here](https://github.com/gdcmarinho/awesome-project/blob/master/LICENSE).
